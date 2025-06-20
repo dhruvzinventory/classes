@@ -1,4 +1,4 @@
-#classes
+
 A SwiftUI-based classroom management system tailored for Company Secretary coaching classes. This app streamlines the management of students, classes, and attendance—designed for a coaching institutes.
 
 🚀 Features
